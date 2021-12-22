@@ -293,6 +293,9 @@ h2{
         width: 5vw;
         border-radius: 25%;
     }
+    #table{
+        font-size: large;
+    }
 }
 
 
