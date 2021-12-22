@@ -266,6 +266,7 @@ h2{
     .homeprof{
         display: flex;
         flex-direction: column;
+        margin-left: -3.5em;
     }
     .navcontainer{
         display: grid;
